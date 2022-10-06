@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <img src="tumbur.jpeg" alt="" width="7%" height="7%">
+    </div>
+
+    <div>
+        <h1>Hi, Tumbur Aprian Simorangkir.</h1>
+        <p>Seorang Mahasiswa</p>
+    </div>
+
+    <div>
+        <ul>
+            <li><a href="#">Tentang saya</a></li>
+            <li><a href="#">Pengalaman kerja</a></li>
+            <li><a href="#">Hubungi saya</a></li>
+        </ul>
+    </div>
+    <div>
+        <h3>Tentang Saya</h3>
+        <p>Halo nama saya Tumbur Aprian Simorangkir. NIM 120140106. Saya angkatan 20 dan saat ini saya semeseter 5. Di semester ini saya mengambil mata kuliah Pemrograman Web dan mempelajari tentang HTML atau bahasa standar pemrograman yang digunakan untuk membuat halaman website yang diakses melalui internet dan biasanya didalamnya terdapat tag-tag.
+        </p>
+    </div>
+
+    <div>
+        <video controls width="300px" height="300px">
+            <source src="video tmbr.mp4" >
+        </video>
+    </div>
+    <div>
+        <h3>Pengalaman Kerja(Tidak Ada)</h3>
+        <table border="1">
+            <tr>
+                <th rowspan="2">No</th>
+                <th rowspan="2">Posisi</th>
+                <th rowspan="2">Perusahaan</th>
+                <th colspan="2">Waktu</th>
+                <tr>
+                    <th>mulai</th>
+                    <th>selesai</th>
+                </tr>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>software enginer</td>
+                <td>PTPN</td>
+                <td>1019</td>
+                <td>1230</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>software enginer</td>
+                <td>Bank Mandiri</td>
+                <td>1415</td>
+                <td>1755</td>
+            </tr>
+        </table>
+    </div>
+
+    <div>
+        <h3>Hubungi Saya</h3>
+        Nama: <input type="text" name="" id="">
+    </div>
+    <div>
+        <p>Sudah menonton film saya?</p>
+        <p><input type="radio">sudah</p>
+        <p><input type="radio">belum</p>
+        <p><input type="checkbox">ini</p>
+        <p><input type="checkbox">itu</p>
+        <p><input type="checkbox">anu</p>
+        <input type="submit" name="" id="">
+    </div>
+
+    <div>
+        <p>ini akhir</p>
+    </div>
+</body>
+</html>
